@@ -33,7 +33,7 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
-                    <x-input />
+                    <x-input type="foo-bar-baz" />
                 </div>
 
                 <div class="mt-16">
